@@ -8,7 +8,17 @@ Do you think my contributions to IOTA are useful? Show your appreciation with a 
 
 ![QR code](qr15.png)
 
-This address is dust enabled on the Chrysalis network, so you can send amounts less than 1 Mi.
+
+Donate Shimmer
+--------------
+
+Do you think my contributions to Shimmer are useful? Show your appreciation with a donation:
+
+
+    smr1qr9qmrru4krz526g5p6p8uryql02xht0c9k3ejnc8vtsq8nnrfrasqf7s4t
+
+![QR code](shimmer.png)
+
 
 Thank you!
 ----------
