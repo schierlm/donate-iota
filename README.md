@@ -1,5 +1,6 @@
 Donate IOTA
 ===========
+[<img src="https://api.gitsponsors.com/api/badge/img?id=130466350" height="20">](https://api.gitsponsors.com/api/badge/link?p=02pl/kGRCxvL8/qbGB/4lssoys12mStYF5KzQiyDZA+8VR5D8/axbdbHrMiDgRxA)
 
 Do you think my contributions to IOTA are useful? Show your appreciation with a donation:
 
