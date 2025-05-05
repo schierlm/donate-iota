@@ -3,6 +3,15 @@ Donate IOTA
 
 Do you think my contributions to IOTA are useful? Show your appreciation with a donation:
 
+New (rebased):
+
+    0xc99159bd574e1c723bef21e10c7557ad4cf455bd837de8be72f757784cccc163
+
+![QR code](https://github.com/user-attachments/assets/3ec39db7-afea-4ccd-9e2f-c7ec298b94a2)
+
+
+
+Old (stardust):
 
     iota1qrdw48dl6sr4ftu926pwvfscxr9vmpsdwymayhgdfvkduwjaw4345llmfa3
 
